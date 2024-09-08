@@ -15,7 +15,8 @@ Check out the live application [here](https://password2generator.netlify.app/).
 - One-click copy to clipboard.
 - Responsive design.
 
-![Password Generator Screenshot](Screenshot (212).png)
+![Password Generator Screenshot](React-PasswordGenerator
+/Screenshot (212).png)
 
 
 ## Getting Started
@@ -27,5 +28,13 @@ To run this project locally:
    ```bash
    git clone https://github.com/your-username/password-generator.git
    cd password-generator
+   
+2. **Install dependencies:**
+
+    npm install
+
+3. **Run the development server:**
+
+   npm run dev
 
 
