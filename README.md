@@ -15,6 +15,9 @@ Check out the live application [here](https://password2generator.netlify.app/).
 - One-click copy to clipboard.
 - Responsive design.
 
+![Password Generator Screenshot]()
+
+
 ## Getting Started
 
 To run this project locally:
