@@ -15,8 +15,7 @@ Check out the live application [here](https://password2generator.netlify.app/).
 - One-click copy to clipboard.
 - Responsive design.
 
-![Password Generator Screenshot](React-PasswordGenerator
-/Screenshot (212).png)
+[React-PasswordGenerator](https://github.com/rajmahto/React-PasswordGenerator/blob/main/Screenshot%20(212).png)
 
 
 ## Getting Started
